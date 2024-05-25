@@ -1,4 +1,4 @@
-# Note : I have provided exported apk file. you can install and check the android app. 
+ 
 ## steps to execute project : 
 1. download or clone the project from github
 2. Extract zip file 
