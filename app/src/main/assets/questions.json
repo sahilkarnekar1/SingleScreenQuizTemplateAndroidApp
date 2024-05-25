@@ -1,0 +1,32 @@
+[
+  {
+    "questionText": "What is the capital of France?",
+    "questionImage": "https://cdn.britannica.com/36/135436-050-ED1D0FCE/skyline-Eiffel-Tower-France-Paris.jpg",
+    "options": ["Paris", "Berlin", "London", "Rome"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "Which planet is known as the Red Planet?",
+    "questionImage": null,
+    "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "Who painted the Mona Lisa?",
+    "questionImage": "https://cdn.fstoppers.com/styles/full/s3/media/2019/12/04/nando-jpeg-quality-006-too-much.jpg",
+    "options": ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
+    "correctAnswerIndex": 0
+  },
+  {
+    "questionText": "What is the largest mammal?",
+    "questionImage": null,
+    "options": ["Elephant", "Blue Whale", "Giraffe", "Hippopotamus"],
+    "correctAnswerIndex": 1
+  },
+  {
+    "questionText": "What is the largest mammal?",
+    "questionImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Suncus_etruscus.jpg/800px-Suncus_etruscus.jpg",
+    "options": ["Dog", "Cat", "Etruscan shrew", "Goat"],
+    "correctAnswerIndex": 2
+  }
+]
